@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <form action="loginform.html" method="post">
+            <table>
+                <tr>
+                        <td><h3><center>Login Form</center><img src=""></h3></td>
+
+                </tr>
+                <tr>
+                    <td>Email or Phone</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="user">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="password" name="user_pass">
+                    </td>
+                </tr>
+                <tr>
+                    <td><font color="blue">Forgot Password?</font></td>
+                </tr>
+                <tr>
+                    <td>
+                            <font bgcolor="blue">
+                                <input  type="button" name="                Login                      " value="                login                   ">
+      
+                            </font>
+                    </td>
+                </tr>
+                <tr>
+                    <td><center>Not a member?<font color="blue" >signupnow</font></center></td>
+                </tr>
+            </table>
+
+        </form>
+    </center>
+    thank you
+</body>
+</html>
